@@ -1,0 +1,1 @@
+print("Its Simple Stocks")
